@@ -22,4 +22,4 @@ This is a classic memory game inspired by Simon — a sequence-based game where 
 - JavaScript (ES6+)
 
 ## Live Demo
-- https://your-live-link.netlify.app
+- https://memoflash.netlify.app
