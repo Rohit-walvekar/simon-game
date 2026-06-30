@@ -21,5 +21,5 @@ This is a classic memory game inspired by Simon — a sequence-based game where 
 - CSS3
 - JavaScript (ES6+)
 
-## Live Demo
-- https://memoflash.netlify.app
+## Live Preview
+- https://memoflash.netlify.app/
