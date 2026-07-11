@@ -1,7 +1,7 @@
-# Simon Game 
+# Simon Game: Web game
 
 ## Overview
-This is a classic memory game inspired by Simon — a sequence-based game where the player must repeat the sequence of colors and sounds shown by the system. Built using HTML, CSS, and JavaScript, this project focuses on game logic, UI interaction, and responsive design.
+This is a classic memory game inspired by Simon - a sequence-based game where the player must repeat the sequence of colors and sounds shown by the system. Built using HTML, CSS, and JavaScript, this project focuses on game logic, UI interaction, and responsive design.
 
 ## How to Play
 1. Click **Start** to begin the game.
@@ -15,6 +15,7 @@ This is a classic memory game inspired by Simon — a sequence-based game where 
 - Color-based sequence pattern logic
 - Responsive UI
 - User-friendly interface
+- Dark/Light mode
 
 ## Technologies Used
 - HTML5
